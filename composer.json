@@ -1,0 +1,19 @@
+{
+  "name": "HcsOmot/AdventOfCode2016",
+  "description": "Advent of Code 2016 puzzles",
+  "minimum-stability": "dev",
+  "licence": "MIT",
+  "authors": [
+    {
+      "name": "Tomo Šala",
+      "email": "hcs.omot@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "AdventOfCode2016\\Day1\\": "src/Day1"
+    }
+  },
+  "require": {
+  }
+}
